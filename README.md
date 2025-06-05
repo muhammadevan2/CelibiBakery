@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CelibiBakery
-=======
 # Celibi Bakery Order Website
 
 Website pemesanan roti dan kue untuk Celibi Bakery. Terdiri dari dua bagian:
@@ -69,4 +66,3 @@ Lalu buka `http://localhost:8000` di browser kamu.
 Akun Login Kasir
 Email : kasir@exmaple.com
 Pass : kasir
->>>>>>> fb3b2ca (Final Commit)
